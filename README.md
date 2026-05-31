@@ -18,7 +18,7 @@ Write the C Program using Linux IO Systems locking
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-
+```c
 ## 1.To Write a C program that illustrates files copying 
 
 
@@ -144,7 +144,7 @@ int main(int argc, char *argv[]) {
     close(fd);
     return 0;
 }
-
+```
 
 ## OUTPUT
 
